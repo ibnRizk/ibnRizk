@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Hussein  
 
-<!--
-**ibnRizk/ibnRizk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mobile App Developer | Flutter Enthusiast  
 
-Here are some ideas to get you started:
+🔹 Passionate about building high-quality mobile applications with Flutter  
+🔹 Always eager to learn and explore new technologies  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm working on  
+- 📱 Currently developing Flutter Applications  
+- 🔍 Exploring new frameworks and best practices  
+
+### 💡 Ask me about  
+- Flutter Development  
+- Dart Programming  
+- Mobile App Architecture  
+
+### 📫 How to reach me  
+📩 Email: husseinrizk117@gmail.com  
+🔗 LinkedIn: [My Profile](https://www.linkedin.com/in/hussein-a-2ab0b7318)  
+
+---
+
+💡 Fun Fact: I'm always learning and improving my skills! 🚀

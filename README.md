@@ -1,7 +1,7 @@
 # Hussein Rizk  
 Junior Flutter Developer | Cross-Platform App Developer  
 
-[![LinkedIn](https://www.linkedin.com/in/husseinrizk/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hussein%20Rizk-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husseinrizk/)  
 [![GitHub](https://img.shields.io/badge/GitHub-ibnRizk-181717?style=flat&logo=github&logoColor=white)](https://github.com/ibnRizk)  
 [![Email](https://img.shields.io/badge/Email-husseinrizk117%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:husseinrizk117@gmail.com)
 
